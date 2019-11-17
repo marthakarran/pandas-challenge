@@ -1,5 +1,0 @@
-Heroes of Pymoli - Data Trends
-
-1) The majority of the players are Male and  most of the purchases were made by Male players. 
-2) The majority of the players are between the ages of 20 and 25, and most of the purchases were made by players in this age group. 
-3) The most popular item is "Oathbreaker", of which 12 items were purchased. 
